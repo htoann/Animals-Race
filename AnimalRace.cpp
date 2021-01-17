@@ -61,12 +61,12 @@ void SapXepDanhSach(vector<ConVat>& DanhSach) {
 	}
 }
 int main() {
-	ifstream in("Text.txt");
+	ifstream in("INPUT.txt");
 	vector<ConVat> DanhSach;
 	NhapDanhSachConVat(in, DanhSach);
 	SapXepDanhSach(DanhSach);
 	in.close();
-	ofstream out("OUT.txt");
+	ofstream out("OUTPUT.txt");
 	out << " " << endl;
 	int n = DanhSach.size();
 	int count = 0;
