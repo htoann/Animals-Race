@@ -12,9 +12,9 @@ File INPUT.txt dạng (L : Lion, R : Rabbit, T : Turtle)
 
 L001 50 1 (LION : Speed 50 : Có trang bị)
 
-R001 70 0 ((RABBIT : Speed 70 : Không trang bị)
+R001 70 0 (RABBIT : Speed 70 : Không trang bị)
 
-T001 10 1
+T001 10 1 ((TURTLE : Speed 10 : Có trang bị))
 
 T002 15 0
 
