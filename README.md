@@ -6,11 +6,11 @@ Cuộc đua càng thêm thú vị khi có thêm nhiều trang bị như mai vàn
 
 Tạo file Text.txt, chọn những con thú của riêng bạn và xem ai sẽ về đích trước nào. Let's go!
 
-File INPUT.txt dạng
+File INPUT.txt dạng (L : Lion, R : Rabbit, T : Turtle)
 
 6
 
-L001 50 1
+L001 50 1 (LION : Speed 50 : Có trang bị)
 
 R001 70 0
 
